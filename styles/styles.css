@@ -265,6 +265,8 @@ body {
   display: inline-block;
   min-width: 73px;
   cursor: pointer;
+  line-height: 1.63;
+  letter-spacing: 0.03em;
 }
 
 .buttons:hover {
